@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  padding: 20px;
+  max-width: 900px;
+  margin: auto;
+}
